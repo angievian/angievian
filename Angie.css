@@ -3,7 +3,7 @@ Header {text-transform:uppercase;
           font-size:15px; 
           font-family:arial}  
 
-.miafoto {margin-top:60px;}
+.miafoto {float:left;}
 
 .nome {font-style:bookman old style;
        font-size:25px; 
